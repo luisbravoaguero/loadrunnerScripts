@@ -73,8 +73,8 @@ web_reg_save_param_json(
 "SelectAll=Yes",
 SEARCH_FILTERS,
 LAST);
-web_rest("GET: https://api.pre.mapfre.com.pe/legacy/asoim/v2/area...",
-"URL=https://api.pre.mapfre.com.pe/legacy/asoim/v2/areaPrivada/salud/cita/fechasDisponibles/CD/451-6/0?tipoCita=P",
+web_rest("GET: https://...",
+"URL=https://...",
 "Method=GET",
 "Snapshot=t355365.inf",
 HEADERS,
